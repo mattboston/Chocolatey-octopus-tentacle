@@ -5,4 +5,4 @@ This project produces the Nuget Package for installing an OctopusDeploy Tentacle
 
 To use this package, install chocolatey then
 
-cinst hexter.octopus.tentacle
+cinst hexter.octopus2.tentacle
