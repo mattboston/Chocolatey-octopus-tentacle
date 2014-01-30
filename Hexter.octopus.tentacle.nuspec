@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Hexter.octopus.tentacle</id>
-        <version>1.6.3.1723</version>
-        <authors>eric hexter</authors>
-        <owners>eric hexter</owners>
+        <version>2.0.13.1100</version>
+        <authors>matt shields</authors>
+        <owners>matt shields</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>deployment server</description>
         <releaseNotes />
-        <projectUrl>https://github.com/erichexter/Chocolatey-octopus-tentacle</projectUrl>
-      <licenseUrl>https://raw.github.com/erichexter/Chocolatey-octopus-tentacle/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/mattboston/Chocolatey-octopus-tentacle</projectUrl>
+      <licenseUrl>https://raw.github.com/mattboston/Chocolatey-octopus-tentacle/master/LICENSE</licenseUrl>
       <language>en-US</language>
     </metadata>
 </package>
