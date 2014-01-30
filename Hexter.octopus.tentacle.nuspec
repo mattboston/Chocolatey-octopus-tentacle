@@ -8,8 +8,8 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>deployment server</description>
         <releaseNotes />
-        <projectUrl>https://github.com/mattboston/Chocolatey-octopus-tentacle</projectUrl>
-      <licenseUrl>https://raw.github.com/mattboston/Chocolatey-octopus-tentacle/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/mattboston/Chocolatey-octopus2-tentacle</projectUrl>
+      <licenseUrl>https://raw.github.com/mattboston/Chocolatey-octopus2-tentacle/master/LICENSE</licenseUrl>
       <language>en-US</language>
     </metadata>
 </package>
